@@ -1,6 +1,6 @@
 # Formação Profissional Python: Curso Completo + Projetos
 
-###   Descrição
+### 📚 Descrição
 
 O curso [Formação Profissional Python](https://www.udemy.com/course/formacao-python/) tem mais de 250 aulas em 24 seções, atividades práticas e dois projetos finais.
 
