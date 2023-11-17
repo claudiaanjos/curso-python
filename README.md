@@ -1,4 +1,8 @@
-# Formação Profissional Python: Curso Completo + Projetos
+# Formação Profissional Python
+
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=Status&message=FINALIZADO&color=blue&style=for-the-badge"/>
+</p>
 
 ### 📚 Descrição
 
